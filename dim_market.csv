@@ -1,0 +1,5 @@
+market_id,country,iso_code,local_currency,dominant_channel,regulatory_tier,usd_fx_rate,market_fraud_index
+val_0,Nigeria,NG,NGN,Mobile Money Agent,Emerging (Tier 3),80.23307561,392.8462477
+val_1,Kenya,KE,KES,Mobile App,Mature (Tier 1),366.0779776,267.5220342
+val_2,Ghana,GH,GHS,Bank Transfer,Mature (Tier 1),872.4207008,421.6032103
+val_3,South Africa,ZA,ZAR,Mobile Money Agent,Mature (Tier 1),354.4362812,797.5121313

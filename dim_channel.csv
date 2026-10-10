@@ -1,0 +1,13 @@
+channel_id,channel_type,channel_subtype,is_digital,avg_fraud_rate,requires_internet
+val_0,API/Third-Party,Merchant POS,TRUE,857.6105854,TRUE
+val_1,POS,USSD Agent Assisted,TRUE,624.7460929,FALSE
+val_2,POS,API Integration,TRUE,559.8086507,FALSE
+val_3,Agent,Human Agent (Branch),TRUE,509.0999031,FALSE
+val_4,POS,API Integration,FALSE,689.533128,TRUE
+val_5,Agent,USSD Short Code,TRUE,701.8247994,FALSE
+val_6,API/Third-Party,API Integration,TRUE,599.4575027,FALSE
+val_7,Mobile App,USSD Agent Assisted,FALSE,448.9414141,FALSE
+val_8,USSD,Human Agent (Branch),FALSE,675.3635416,FALSE
+val_9,API/Third-Party,SMS OTP Flow,FALSE,156.6841689,TRUE
+val_10,Agent,Human Agent (Field),FALSE,551.533686,FALSE
+val_11,Mobile App,USSD Short Code,FALSE,519.2998581,TRUE
